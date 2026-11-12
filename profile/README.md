@@ -1,7 +1,7 @@
 <h1 align="center">Build an AI team you can trust.</h1>
 
 <p align="center">
-  Zati is a workspace where you give each AI worker its own responsibilities, limits and budget—so work gets finished and only the decisions that need you come back to you.
+  Zati is a workspace where you give each AI worker its own responsibilities, limits and budget, so work gets finished and only the decisions that need you come back to you.
 </p>
 
 <p align="center">
@@ -27,6 +27,6 @@ Zati is in active development, built in the open by [Sire Run, Inc.](https://sir
 
 ### Start here
 
-- **[zati.run](https://zati.run)** — the product and how to get started.
-- **[zati.agency](https://zati.agency)** — hands-on AI workshops for small businesses, run by the founder.
-- **[sire.run](https://sire.run)** — the company.
+- **[zati.run](https://zati.run)**: the product and how to get started.
+- **[zati.agency](https://zati.agency)**: hands-on AI workshops for small businesses, run by the founder.
+- **[sire.run](https://sire.run)**: the company.
